@@ -9,7 +9,7 @@ You can rely on :
 
 ## What's new on version 2
 
-Lambda expressions everywhere for Early Bound queries
+Lambda expressions are everywhere for Early Bound queries
 
 No more mix between Late Bound and Early Bound queries
 
