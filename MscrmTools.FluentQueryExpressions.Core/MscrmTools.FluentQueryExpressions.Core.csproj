@@ -15,6 +15,7 @@
 
   <Import Project="..\MscrmTools.Shared\MscrmTools.Shared.projitems" Label="Shared" />
 
+# Including the item group that stores actual verison 
   <ItemGroup>
     <PackageReference Include="Microsoft.PowerPlatform.Dataverse.Client" Version="1.2.10" />
   </ItemGroup>
